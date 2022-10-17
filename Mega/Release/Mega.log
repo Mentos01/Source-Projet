@@ -1,0 +1,24 @@
+﻿  pch.cpp
+C:\Users\Mega\source\repos\Mega\Mega\b64.h(16,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mega\source\repos\Mega\Mega\b64.h(38,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mega\source\repos\Mega\Mega\vigenere.h(15,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mega\source\repos\Mega\Mega\vigenere.h(42,51): warning C4101: 'j': unreferenced local variable
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1247): warning C4409: illegal instruction size
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1254,1): warning C4102: '_label_original': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1434,4): warning C4102: 'originalcode': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1500,4): warning C4102: 'originalcode': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1532,1): warning C4102: 'originalcode': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1557,1): warning C4102: 'originalcode': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1581,1): warning C4102: 'originalcode': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1606,1): warning C4102: 'originalcode': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1634,1): warning C4102: 'originalcode': unreferenced label
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(2024,1): warning C4102: 'originalcode': unreferenced label
+  dllmain.cpp
+  Hook.cpp
+     Creating library C:\Users\Mega\source\repos\Mega\Release\Mega.lib and object C:\Users\Mega\source\repos\Mega\Release\Mega.exp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\Mega\source\repos\Mega\Mega\pch.cpp(1198): warning C4715: 'GetModelIDByTypeID': not all control paths return a value
+  All 309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mega.vcxproj -> C:\Users\Mega\source\repos\Mega\Release\Mega.dll
